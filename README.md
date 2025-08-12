@@ -30,4 +30,4 @@ It is designed to work seamlessly with a frontend application for user sign-up, 
 1. Clone the repo:
 
    ```bash
-   ```pip install -r requirements
+   pip install -r requirements
